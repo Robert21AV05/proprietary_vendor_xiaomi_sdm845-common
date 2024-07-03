@@ -1,3 +1,5 @@
+**It works 100% so far.**
+
 Git cloned from TheMuppets
 
 Modified to avoid the bug:
